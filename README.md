@@ -11,8 +11,10 @@ For installing python3 in your linux environment
 Run the script :
 
 
-**STEP 2: ** ** ./python_setup.sh
-**
+**STEP 2: ** 
+
+./python_setup.sh
+
 
 **STEP 3:**
 
