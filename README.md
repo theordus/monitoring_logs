@@ -2,23 +2,23 @@
 
 
 
-STEP 1: Clone the repository
+**STEP 1: Clone the repository**
 
 git clone https://github.com/theordus/monitoring_logs.git
 
 
 For installing python3 in your linux environment
 Run the script :
-STEP 2: 
 
-** ./python_setup.sh
+
+**STEP 2: ** ** ./python_setup.sh
 **
 
-STEP 3:
+**STEP 3:**
 
 python3 log-monitor.py
 
-STEP 4:
+**STEP 4:**
 
 You can enter any path of log files. The following is just for reference.
 
